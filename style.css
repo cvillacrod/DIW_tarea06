@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #009929;
+    
+}
+
+header {
+    color: #F4C770;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40pt;
+    text-shadow: 2px 2px 2px #000000; 
+  }
+
+
+p{
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    padding: 0 10% 0 10%;
+}
+
+
+#tutorial {
+    margin: 20px;
+    text-align: center;
+}
+
+video {
+    width: 70%;
+    text-align: center;
+}
+
+#subtitulos {
+    margin-top: 10px;
+    text-align: center;
+}

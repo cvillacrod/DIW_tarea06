@@ -1,0 +1,63 @@
+﻿1
+00:00:01,300 --> 00:00:02,890
+Buenos días,
+
+2
+00:00:02,900 --> 00:00:05,890
+este vídeo es para presentaros el prototipo de una aplicación que hemos creado
+
+3
+00:00:05,900 --> 00:00:10,090
+para los deportistas de los clubs. Sirve para ayudar al deportista y hacer que sus
+
+4
+00:00:10,100 --> 00:00:15,290
+objetivos se cumplan. Para ello cuenta con varias opciones, primero nos encontramos con
+
+5
+00:00:15,300 --> 00:00:22,190
+el login para poder acceder, dónde introducimos el usuario y la contraseña y si es correcto,
+
+6
+00:00:22,200 --> 00:00:24,790
+pues en la pantalla principal ya podemos ver varias opciones,
+
+7
+00:00:24,800 --> 00:00:29,890
+avisos, actividades un plan de nutrición, planes de entrenamiento, las fotos.
+
+8
+00:00:29,900 --> 00:00:34,890
+Podemos encontrarnos también con un menú, donde podemos
+
+9
+00:00:34,900 --> 00:00:39,790
+encontrar muchas opciones también, al igual que en la pantalla principal y un botón para ir atrás.
+
+10
+00:00:40,200 --> 00:00:44,290
+Por ejemplo en la opción del perfil podríamos ver
+
+11
+00:00:44,300 --> 00:00:47,990
+los datos del deportista y podríamos modificarlos,
+
+12
+00:00:48,000 --> 00:00:52,090
+por ejemplo, podemos modificar, el correo electrónico, la contraseña,
+
+13
+00:00:52,100 --> 00:00:58,590
+el teléfono, la fecha de nacimiento y podemos además
+
+14
+00:00:58,600 --> 00:01:03,790
+guardar estos datos. Como podemos ver todas estas opciones que hemos visto
+
+15
+00:01:03,800 --> 00:01:06,090
+están adaptadas para ser usadas fácilmente
+
+16
+00:01:06,100 --> 00:01:08,290
+ y que sean atractivos para los deportistas.
